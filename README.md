@@ -1,5 +1,5 @@
 # Algorithms-Visualizer
-This is a project made for the Data Structures and Algorithms course in International University with main the purpose of visualizing some algorithms. The project is finished with our initial intentions completed.
+This is a project made for the Data Structures and Algorithms course in  University with main the purpose of visualizing some algorithms. The project is finished with our initial intentions completed.
 
 ## Pre-requisites
 This project is made with:
@@ -18,9 +18,7 @@ npm install -g typescript
 ```bash 
 tsc --watch
 ``` 
-*Note*: It will auto compile from TypeScript into JavaScript everytime you save the files.
 
-If you can't run the project, you can visit here: https://saaransht.github.io/AlgoVision/  to see the demo.
 
 ## Features
 ### Sorting Algorithms
@@ -39,10 +37,4 @@ If you can't run the project, you can visit here: https://saaransht.github.io/Al
 ![Path Finding](https://imgur.com/m0nlZtu.png)
 *Path Finding*
 
-## Contacts
-If you have any questions regarding the projects, you can contact any one of us:
-+ Saaransh Tiwari ([saaransht](https://github.com/saaransht)): tansh2612@gmail.com
 
-
-Fellow IUers are very welcome!
-# AlgoVision
